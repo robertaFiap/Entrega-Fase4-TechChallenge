@@ -15,7 +15,7 @@ Para a execução deste projeto é necessário verificar no email(caixa de spam 
 
 ⚙️ Executando os testes
 
-No dashboard terá irá aparecer o projeto Eventos, ao entrar nele poderá navegar pelas páginas criadas. Para executar o demo da aplicação clicar no botão com aparência de um raio, escrito Run your app "Teste Mode", poderá desfrutar das seguintes opções:
+No dashboard terá irá aparecer o projeto Eventos, ao entrar nele poderá navegar pelas páginas criadas. Para executar o demo da aplicação clicar no botão com aparência de um raio, escrito Run your app "Teste Mode", entre no sign up e cadastre seu nome, email, senha. Dessa forma, poderá desfrutar das seguintes opções:
 
 Lista de eventos; Alterar, Deletar e Inserir um novo evento.
 
